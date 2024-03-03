@@ -1,0 +1,16 @@
+Inicio
+|
+|---> Ingresar longitud del primer cateto (a)
+|       |
+|       |---> Leer a
+|
+|---> Ingresar longitud del segundo cateto (b)
+|       |
+|       |---> Leer b
+|
+|---> Calcular el cuadrado de la hipotenusa (c^2)
+|       |
+|       |---> c^2 = a^2 + b^2
+|       |---> Mostrar c^2
+|
+Fin
